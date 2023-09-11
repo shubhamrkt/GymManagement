@@ -1,0 +1,8 @@
+.reg {
+  background: url("../images/login-bg2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.reg-form {
+  background-color: rgba(52, 52, 52, 0.8);
+}
